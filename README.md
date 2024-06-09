@@ -23,7 +23,7 @@
 
 # <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stats.gif" width="35px" alt="stats" /> GitHub Stats
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-7wbv.vercel.app/api?username=Bapan-Ghosh&show_icons=true&locale=en&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="bapanghosh" /></p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bapan-Ghosh&theme=tokyonight&hide_border=false" alt="Bapan-Ghosh" /></p>
 
