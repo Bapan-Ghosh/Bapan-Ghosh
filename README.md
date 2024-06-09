@@ -5,25 +5,17 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Bapan-Ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="BapanGhosh" /></p>
 
-- 🌱 I’m currently mastering **react** <img src="https://raw.githubusercontent.com/Bapan-Ghosh/images/main/react.gif" alt="react.js" width="17.5" height="15" />
+- 🌱 I’m currently mastering **react** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react.js" width="17.5" height="15" />
 
-- 👨‍💻 Check out my [portfolio](https://soumyakhanda.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="20px" alt="website" />
+- 📫 Email: **bapanghosh166@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email" />
 
-- 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email" />
-
-- 📄 Here's my [resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="50px" height="20px" alt="resume" />
-
-- ✒️ My blogging website: [blogs](https://blogs-ssk.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/blog.gif" width="25px" alt="blogs" />
 
 - ⚡ Fun fact: **time, tide, and JavaScript waits for none!**
 
 <h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/soumyakhanda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/linkedin.gif" alt="https://www.linkedin.com/in/soumya-sagnik-khanda-0446641b8/" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/soumyakhanda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/soumyakhanda/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16835030/soumya-sagnik-khanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stack overflow.png" alt="Stackoverflow" height="40" width="40" /></a>
-&nbsp;
-<a href="https://cssbattle.dev/player/soumya_khanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/cssbattle.webp" alt="CSS-Battle" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/bapan-ghosh166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/linkedin.gif" alt="https://www.linkedin.com/in/bapan-ghosh166/" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/bapanghosh166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/soumyakhanda/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
@@ -31,9 +23,9 @@
 
 # <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stats.gif" width="35px" alt="stats" /> GitHub Stats
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-7wbv.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="soumyasagnik" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-7wbv.vercel.app/api?username=Bapan-Ghosh&show_icons=true&locale=en&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="bapanghosh" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=tokyonight&hide_border=false" alt="soumyasagnik" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bapan-Ghosh&theme=tokyonight&hide_border=false" alt="Bapan-Ghosh" /></p>
 
 <img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/border.gif" alt="border" width="100%" height="7.5rem" />
 
