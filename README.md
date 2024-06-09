@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Bapan-Ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="BapanGhosh" /></p>
 
-- 🌱 I’m currently mastering **react** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react.js" width="17.5" height="15" />
+- 🌱 I’m currently mastering **React** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react.js" width="17.5" height="15" />
 
 - 📫 Email: **bapanghosh166@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email" />
 
