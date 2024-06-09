@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Prabhjot+Kaur's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Bapan+Ghosh's+GitHub+Profile)](https://git.io/typing-svg)
 
 ## Hi there👋 I'm Bapan Ghosh 
 
