@@ -1,88 +1,40 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Bapan+Ghosh's+GitHub+Profile)](https://git.io/typing-svg)
+[![MasterHead](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/Bapan-Ghosh/images/main/banner.gif))
+<h1 align="center">Hi, I'm Soumya Sagnik Khanda <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/hi.gif" width="28px" height="28px" alt="hi" /></h1>
+<h2 align="center">Software Developer from India <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/flag.gif" width="30px" height="21px" alt="flag" /></h2>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/coder.gif" />
 
-## Hi there👋 I'm Bapan Ghosh 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /></p>
 
+- 🌱 I’m currently mastering **react** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react.js" width="17.5" height="15" />
 
-- 🌱 I’m currently deep diving in  **Frontend World**
+- 👨‍💻 Check out my [portfolio](https://soumyakhanda.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/portfolio.gif" width="20px" alt="website" />
 
-- 🔭 I’m currently working at Netomi.
+- 📫 Email: **soumyasagnik@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email" />
 
-- 👯 I’m looking to collaborate on Frontend Development projects.
+- 📄 Here's my [resume](https://drive.google.com/file/d/1ZCIA64FilpdQa6_HnOBxMaVIIr0zgy2w/view) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/resumee.gif" width="50px" height="20px" alt="resume" />
 
-- 💬 Ask me about UI design & Frontend Development.
+- ✒️ My blogging website: [blogs](https://blogs-ssk.netlify.app/) <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/blog.gif" width="25px" alt="blogs" />
 
-- 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/prabhjotkaur28/)
+- ⚡ Fun fact: **time, tide, and JavaScript waits for none!**
 
-- 😄 Pronouns: He/him
+<h3 align="left">Socials</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/soumyakhanda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/linkedin.gif" alt="https://www.linkedin.com/in/soumya-sagnik-khanda-0446641b8/" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/soumyakhanda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/soumyakhanda/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16835030/soumya-sagnik-khanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stack overflow.png" alt="Stackoverflow" height="40" width="40" /></a>
+&nbsp;
+<a href="https://cssbattle.dev/player/soumya_khanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/cssbattle.webp" alt="CSS-Battle" height="35" width="35" /></a>
+</p>
 
+<h3 align="left">Languages and Tools</h3>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/js.gif" alt="javascript" width="40" height="40" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react" width="40" height="40" /></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/java.gif" alt="java" width="30" height="40" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mysequel.gif" alt="mysql" width="40" height="40" /></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/css.gif" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/html.gif" alt="html5" width="40" height="40" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/bootstrap.gif" alt="bootstrap" width="40" /></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/node.js.gif" alt="nodejs" width="60" height="40" /></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/express.js.png" alt="express" width="40" height="40" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /></a></p>
 
-## Latest Blog Post:-
+# <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stats.gif" width="35px" alt="stats" /> GitHub Stats
 
-<oi>
-  <li>
-    <a href="https://prabhkaur.hashnode.dev/trick-to-master-pattern-problems-in-programming"><strong>Easy way to create patterns using programming</strong></a>      </li>
-  <li>
-    <a href="https://prabhkaur.hashnode.dev/noob-vs-expert-react-developers-code"><strong>Noob v/s expert React developer's code</strong></a>      </li>
-</oi>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-7wbv.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="soumyasagnik" /></p>
 
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=tokyonight&hide_border=false" alt="soumyasagnik" /></p>
 
-<a href="https://www.linkedin.com/in/prabhkaur301/" target="blank" >
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-<a href="https://twitter.com/kaurprabhtwt" target="blank" >
-    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://hashnode.com/@prabhkaur" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/prabh_graphy/">
-    <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:pk746467@gmail.com">
-    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dev.to/prabhkaur301">
-    <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
+<img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/border.gif" alt="border" width="100%" height="7.5rem" />
 
-  <br>
-  <br>
-  
-## Languages and Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
-![React](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=Vue.js&logoColor=white)
-<br/>
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%69ff69.svg?&style=for-the-badge&logo=Figma&logoColor=white)
-
-<br/>
-<hr style="border:0.3px solid gray"> </hr>
-
-
-
-<br/>  
-
-<br>
-
-
-
-<br/>
-
-
-<a><img src="https://img.shields.io/github/followers/prabhkaur301?label=Followers&style=social" alt="GitHub Followers Badge"></a>  
-<br/>
-![Visitor Count](https://komarev.com/ghpvc/?username=prabhkaur301&color=orange&style=flat-square)
-
-<!--- <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1> -->
+[![MasterFoot](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif))
